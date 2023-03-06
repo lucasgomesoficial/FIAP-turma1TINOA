@@ -58,11 +58,11 @@ Describe your project
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
+<!-- - [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [TypeScript](https://www.typescriptlang.org/) -->
 
 ## :white_check_mark: Requirements ##
 
@@ -72,7 +72,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/fiap-turma1tinoa
+$ git clone https://github.com/lucasgomesoficial/fiap-turma1tinoa
 
 # Access
 $ cd fiap-turma1tinoa
@@ -91,7 +91,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/lucasgomesoficial" target="_blank">Lucas Gomes</a>
 
 &#xa0;
 
